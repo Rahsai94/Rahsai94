@@ -1,6 +1,6 @@
  <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&text=RAHSAI94&fontSize=76&fontColor=ffffff&fontAlignY=38&desc=ENGINEERING%20THE%20FUTURE%20WITH%20AI&descSize=17&descAlignY=58&animation=fadeIn&color=0:050510,35:171536,70:392879,100:080812" alt="Rahsai94 futuristic banner"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&text=RAHUL+MOHITE&fontSize=76&fontColor=ffffff&fontAlignY=38&desc=ENGINEERING%20THE%20FUTURE%20WITH%20AI&descSize=17&descAlignY=58&animation=fadeIn&color=0:050510,35:171536,70:392879,100:080812" alt="Rahsai94 futuristic banner"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=2600&pause=800&color=A78BFA&center=true&vCenter=true&width=750&lines=AI+DEVELOPER+%2F%2F+PROBLEM+SOLVER;Building+intelligent+things+that+matter.;LLMs+%7C+AI+Agents+%7C+Generative+AI;Turning+ideas+into+reality%2C+one+commit+at+a+time." alt="Animated developer tagline"/>
 
